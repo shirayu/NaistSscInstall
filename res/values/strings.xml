@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Naist自己署名証明書インストーラ</string>
+    
+    <string name="app_description">ボタンを押すと，Naist自己署名証明書をインストールします．
+  	なお，アプリケーション開発者は本アプリを使用した結果生じる利益および損失に一切責任を負いません．\n
+    \n
+    ※本アプリケーションは奈良先端科学技術大学院大学(NAIST)とは全く関係がありません．
+    NAISTへの問い合わせを行わないでください．
+    \n\n
+    </string>
+    
+    <string name="install_buttion_name">上記事項を理解したのでインストールします</string>
+    
+     <string name="copyright_text">
+     \n
+     (C)2011 shirayu\n
+     License : GNU General Public License version3\n
+     アイコン : <a href="http://www.openclipart.org/detail/27806/certificate-by-doofi-27806">DooFi氏</a>
+     </string>
+    
+    
+</resources>
