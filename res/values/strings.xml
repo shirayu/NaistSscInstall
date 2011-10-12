@@ -19,5 +19,8 @@
      アイコン : <a href="http://www.openclipart.org/detail/27806/certificate-by-doofi-27806">DooFi氏</a>
      </string>
     
+    <string name="install_failed">インストールの失敗しました</string>
+    <string name="install_finished">インストールが終了しました</string>
+    <string name="file_already_exist">ファイルが既に存在します</string>
     
 </resources>
